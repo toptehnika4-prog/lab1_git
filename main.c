@@ -20,3 +20,4 @@ printf("Hello %s %s!\n", first, last);
 lastname
 return 0;
 }
+//Изменено студентом 2
